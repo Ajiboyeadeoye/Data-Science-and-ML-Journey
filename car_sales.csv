@@ -1,0 +1,7 @@
+sale_id,make,model,year,price_usd,mileage_km,transmission,fuel_type,sold_date
+1,Toyota,Corolla,2015,9000,120000,Automatic,Petrol,2024-01-10
+2,Honda,Civic,2018,12000,90000,Automatic,Petrol,2024-02-05
+3,Ford,Focus,2016,7500,150000,Manual,Diesel,2024-02-18
+4,Hyundai,Elantra,2017,8800,110000,Automatic,Petrol,2024-03-02
+5,BMW,3 Series,2019,23000,60000,Automatic,Petrol,2024-03-15
+6,Mercedes,C-Class,2020,28000,45000,Automatic,Petrol,2024-03-20
